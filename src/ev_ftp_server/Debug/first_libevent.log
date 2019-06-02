@@ -1,0 +1,15 @@
+﻿  ev_ftp_server.cpp
+  XFtpFactory.cpp
+  XFtpLIST.cpp
+  XFtpPORT.cpp
+e:\libevent\out\vs2017_32\libevent\src\ev_ftp_server\xftpport.cpp(20): warning C4018: “<”: 有符号/无符号不匹配
+  XFtpRETR.cpp
+  XFtpServerCMD.cpp
+  XFtpSTOR.cpp
+  XFtpTask.cpp
+  XFtpUSER.cpp
+  XThread.cpp
+  XThreadPool.cpp
+  正在生成代码...
+LINK : warning LNK4098: 默认库“LIBCMT”与其他库的使用冲突；请使用 /NODEFAULTLIB:library
+  first_libevent.vcxproj -> E:\libevent\out\vs2017_32\libevent\src\ev_ftp_server\Debug\ev_ftp_server.exe
